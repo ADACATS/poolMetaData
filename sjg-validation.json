@@ -3,6 +3,6 @@
 "ticker":"CATS1",
 "discordId":"428248167793",
 "pool-list":"true",
-"poolMetaData":"https://raw.githubusercontent.com/ADACATS/poolMetaData/8fd7e0b059a1b21ef2c0ec4ca521a7f5c3d09546/poolMetaData.json",
-"validation":"https://raw.githubusercontent.com/ADACATS/poolMetaData/8fd7e0b059a1b21ef2c0ec4ca521a7f5c3d09546/sjg-validation.json"
+"poolMetaData":"https://raw.githubusercontent.com/ADACATS/poolMetaData/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/ADACATS/poolMetaData/main/sjg-validation.json"
 }
